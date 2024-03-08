@@ -91,7 +91,7 @@ hr{
     width: 100%;
     background: red;
     height: 250px;
-    background: url(/img/showcase.png) no-repeat center center/cover;
+    background: url(img/showcase2.jpg) no-repeat center center/cover;
     padding: 50px;
     margin-bottom: 20px;
     display: flex;
@@ -161,7 +161,7 @@ hr{
 .card-banner-one {
     width: 100%;
     height: 150px;
-    background: url(/img/tech-red.jpg) no-repeat center center/cover; 
+    background: url(img/tech-red.jpg) no-repeat center center/cover;   
     margin-bottom: 40px;
 }
 
@@ -182,7 +182,7 @@ hr{
 .cards-banner-two{
     width: 100%;
     height: 350px;
-    background: url(/img/image-five.jpg) no-repeat center center/cover;  
+    background: url(img/image-five.jpg) no-repeat center center/cover;  
 
 }
 
